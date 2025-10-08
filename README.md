@@ -1,4 +1,4 @@
-# 🧠 AI-Based Scientific Froamt Analysis Tool
+# 🧠 AI-Based Scientific Format Analysis Tool
 
 This project is a scientific software solution that uses artificial intelligence (AI) to classify format for papers for research and improvement purposes. It follows best practices in reproducibility, version control, CI/CD, and containerized deployment, making it suitable for scientific and academic environments.
 
